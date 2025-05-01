@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MaslovPI (Pavel)<br>🌱 I’m currently learning Kotlin/TypeScript/React<br>📫 How to reach me: pavel.maslov@sedna.com
+👋 Hi, I’m @MaslovPI (Pavel)<br>📫 How to reach me: pavel.maslov@sedna.com
 
 
 ## 🌐 Socials:
