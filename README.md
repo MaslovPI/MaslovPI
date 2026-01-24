@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @MaslovPI (Pavel Maslov)
 
-🖥️ I've been codding for 13 years
+🖥️ I've been coding professionally for 13 years
 
 🏢 C# was my primary language for a long time
 
