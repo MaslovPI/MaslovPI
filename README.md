@@ -8,7 +8,7 @@
 
 🎆 Now I prefer to have variety in my tools
 
-💧 I'm learning Go and HTMX at the moment, in preparations for a new pet-project.
+🐹 I'm learning Go and HTMX at the moment, in preparations for a new pet-project.
 
 📫 How to reach me: MaslovPI.90@gmail.com
 
